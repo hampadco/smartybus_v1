@@ -1,0 +1,71 @@
+<div class="container mt-5 card p-3">
+    <ul class="nav nav-tabs" id="registrationTabs" role="tablist">
+        <li class="nav-item">
+            <a class="nav-link active" id="student-tab" data-toggle="tab" href="#student" role="tab" aria-controls="student" aria-selected="true">Register Student</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" id="school-tab" data-toggle="tab" href="#school" role="tab" aria-controls="school" aria-selected="false">Register School</a>
+        </li>
+    </ul>
+    <div class="tab-content" id="registrationContent">
+        <div class="tab-pane fade show active" id="student" role="tabpanel" aria-labelledby="student-tab">
+            <div class="row mt-4">
+                <div class="col-md-6 mx-auto card p-3">
+                    <div class="registration-container card p-5 ">
+                        <div class="registration-header text-center ">
+                            <h2>Register Student</h2>
+                            <p>Create a student account.</p>
+                        </div>
+                        <form>
+                            <div class="mb-3">
+                                <label for="studentUsername" class="form-label">Username</label>
+                                <input type="text" class="form-control" id="studentUsername" placeholder="Enter a username">
+                            </div>
+                            <div class="mb-3">
+                                <label for="studentEmail" class="form-label">Email</label>
+                                <input type="email" class="form-control" id="studentEmail" placeholder="Enter your email">
+                            </div>
+                            <div class="mb-3">
+                                <label for="studentPassword" class="form-label">Password</label>
+                                <input type="password" class="form-control" id="studentPassword" placeholder="Enter a password">
+                            </div>
+                            <button type="submit" class="btn btn-primary btn-block">Register Student</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="tab-pane fade" id="school" role="tabpanel" aria-labelledby="school-tab">
+            <div class="row mt-4">
+                <div class="col-md-6 mx-auto">
+                    <div class="registration-container card p-5">
+                        <div class="registration-header">
+                            <h2>Register School</h2>
+                            <p>Create a school account.</p>
+                        </div>
+                        <form>
+                            <div class="mb-3">
+                                <label for="schoolName" class="form-label">School Name</label>
+                                <input type="text" class="form-control" id="schoolName" placeholder="Enter school name">
+                            </div>
+                            <div class="mb-3">
+                                <label for="schoolEmail" class="form-label">Email</label>
+                                <input type="email" class="form-control" id="schoolEmail" placeholder="Enter school email">
+                            </div>
+                            <div class="mb-3">
+                                <label for="schoolPassword" class="form-label">Password</label>
+                                <input type="password" class="form-control" id="schoolPassword" placeholder="Enter a password">
+                            </div>
+                            <button type="submit" class="btn btn-primary btn-block">Register School</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@@popperjs/core@@2.9.1/dist/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>

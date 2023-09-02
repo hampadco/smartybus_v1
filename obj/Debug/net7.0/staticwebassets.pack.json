@@ -1,0 +1,321 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/obj/Debug/net7.0/scopedcss/projectbundle/smartybus.bundle.scp.css",
+      "PackagePath": "staticwebassets/smartybus.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/assets/css/tailwind.css",
+      "PackagePath": "staticwebassets/assets/css/tailwind.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/assets/css/tailwind.output.css",
+      "PackagePath": "staticwebassets/assets/css/tailwind.output.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/assets/img/create-account-office-dark.jpeg",
+      "PackagePath": "staticwebassets/assets/img/create-account-office-dark.jpeg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/assets/img/create-account-office.jpeg",
+      "PackagePath": "staticwebassets/assets/img/create-account-office.jpeg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/assets/img/dashboard.png",
+      "PackagePath": "staticwebassets/assets/img/dashboard.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/assets/img/forgot-password-office-dark.jpeg",
+      "PackagePath": "staticwebassets/assets/img/forgot-password-office-dark.jpeg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/assets/img/forgot-password-office.jpeg",
+      "PackagePath": "staticwebassets/assets/img/forgot-password-office.jpeg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/assets/img/github.svg",
+      "PackagePath": "staticwebassets/assets/img/github.svg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/assets/img/login-office-dark.jpeg",
+      "PackagePath": "staticwebassets/assets/img/login-office-dark.jpeg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/assets/img/login-office.jpeg",
+      "PackagePath": "staticwebassets/assets/img/login-office.jpeg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/assets/img/twitter.svg",
+      "PackagePath": "staticwebassets/assets/img/twitter.svg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/assets/js/charts-bars.js",
+      "PackagePath": "staticwebassets/assets/js/charts-bars.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/assets/js/charts-lines.js",
+      "PackagePath": "staticwebassets/assets/js/charts-lines.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/assets/js/charts-pie.js",
+      "PackagePath": "staticwebassets/assets/js/charts-pie.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/assets/js/focus-trap.js",
+      "PackagePath": "staticwebassets/assets/js/focus-trap.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/assets/js/init-alpine.js",
+      "PackagePath": "staticwebassets/assets/js/init-alpine.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/css/bootstrap/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/css/bootstrap/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/css/bootstrap/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/css/bootstrap/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/css/bootstrap/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/css/bootstrap/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/css/bootstrap/bootstrap.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/css/bootstrap/bootstrap.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/css/style.css.map",
+      "PackagePath": "staticwebassets/css/style.css.map"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/.DS_Store",
+      "PackagePath": "staticwebassets/images/.DS_Store"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/about-us.png",
+      "PackagePath": "staticwebassets/images/about-us.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/about/about-11.jpg",
+      "PackagePath": "staticwebassets/images/about/about-11.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/about/team-1.jpg",
+      "PackagePath": "staticwebassets/images/about/team-1.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/about/team-2.jpg",
+      "PackagePath": "staticwebassets/images/about/team-2.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/about/team-3.jpg",
+      "PackagePath": "staticwebassets/images/about/team-3.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/banner/.DS_Store",
+      "PackagePath": "staticwebassets/images/banner/.DS_Store"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/banner/banner.png",
+      "PackagePath": "staticwebassets/images/banner/banner.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/banner/bus.jpeg",
+      "PackagePath": "staticwebassets/images/banner/bus.jpeg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/banner/bus.png",
+      "PackagePath": "staticwebassets/images/banner/bus.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/banner/bus2.png",
+      "PackagePath": "staticwebassets/images/banner/bus2.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/banner/main.png",
+      "PackagePath": "staticwebassets/images/banner/main.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/banner/track.png",
+      "PackagePath": "staticwebassets/images/banner/track.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/blog/post-1.jpg",
+      "PackagePath": "staticwebassets/images/blog/post-1.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/blog/post-2.jpg",
+      "PackagePath": "staticwebassets/images/blog/post-2.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/blog/post-3.jpg",
+      "PackagePath": "staticwebassets/images/blog/post-3.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/blog/post-4.jpg",
+      "PackagePath": "staticwebassets/images/blog/post-4.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/blog/post-5.jpg",
+      "PackagePath": "staticwebassets/images/blog/post-5.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/blog/post-6.jpg",
+      "PackagePath": "staticwebassets/images/blog/post-6.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/favicon.png",
+      "PackagePath": "staticwebassets/images/favicon.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/illustration-1.png",
+      "PackagePath": "staticwebassets/images/illustration-1.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/illustration-2.png",
+      "PackagePath": "staticwebassets/images/illustration-2.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/logo.png",
+      "PackagePath": "staticwebassets/images/logo.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/main.gif",
+      "PackagePath": "staticwebassets/images/main.gif"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/payment-info.png",
+      "PackagePath": "staticwebassets/images/payment-info.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/testimonials/01.jpg",
+      "PackagePath": "staticwebassets/images/testimonials/01.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/testimonials/02.jpg",
+      "PackagePath": "staticwebassets/images/testimonials/02.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/testimonials/03.jpg",
+      "PackagePath": "staticwebassets/images/testimonials/03.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/testimonials/04.jpg",
+      "PackagePath": "staticwebassets/images/testimonials/04.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/testimonials/05.jpg",
+      "PackagePath": "staticwebassets/images/testimonials/05.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/testimonials/06.jpg",
+      "PackagePath": "staticwebassets/images/testimonials/06.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/images/video-thumb.png",
+      "PackagePath": "staticwebassets/images/video-thumb.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/js/script.js",
+      "PackagePath": "staticwebassets/js/script.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/plugins/bootstrap/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/plugins/bootstrap/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/plugins/bootstrap/bootstrap.min.js",
+      "PackagePath": "staticwebassets/plugins/bootstrap/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/plugins/font-awesome/brands.css",
+      "PackagePath": "staticwebassets/plugins/font-awesome/brands.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/plugins/font-awesome/fontawesome.min.css",
+      "PackagePath": "staticwebassets/plugins/font-awesome/fontawesome.min.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/plugins/font-awesome/solid.css",
+      "PackagePath": "staticwebassets/plugins/font-awesome/solid.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/plugins/jquery/jquery.min.js",
+      "PackagePath": "staticwebassets/plugins/jquery/jquery.min.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/plugins/scrollmenu/scrollmenu.min.js",
+      "PackagePath": "staticwebassets/plugins/scrollmenu/scrollmenu.min.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/plugins/slick/ajax-loader.gif",
+      "PackagePath": "staticwebassets/plugins/slick/ajax-loader.gif"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/plugins/slick/fonts/slick.eot",
+      "PackagePath": "staticwebassets/plugins/slick/fonts/slick.eot"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/plugins/slick/fonts/slick.svg",
+      "PackagePath": "staticwebassets/plugins/slick/fonts/slick.svg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/plugins/slick/fonts/slick.ttf",
+      "PackagePath": "staticwebassets/plugins/slick/fonts/slick.ttf"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/plugins/slick/fonts/slick.woff",
+      "PackagePath": "staticwebassets/plugins/slick/fonts/slick.woff"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/plugins/slick/slick.css",
+      "PackagePath": "staticwebassets/plugins/slick/slick.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/Archive/smartybus/wwwroot/plugins/slick/slick.min.js",
+      "PackagePath": "staticwebassets/plugins/slick/slick.min.js"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.smartybus.props",
+      "PackagePath": "build\\smartybus.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.smartybus.props",
+      "PackagePath": "buildMultiTargeting\\smartybus.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.smartybus.props",
+      "PackagePath": "buildTransitive\\smartybus.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.smartybus.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
